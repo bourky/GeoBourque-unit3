@@ -21,7 +21,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://github.com/bourky/GeoBourque-unit3/blob/main/Screen_Recording_2022-09-20_at_11_38_33_PM_AdobeExpress.gif)
+![](https://github.com/bourky/GeoBourque-unit3/blob/main/Screen_Recording_2022-09-20_at_11_51_29_PM_AdobeExpress.gif)
 
 ### Notes
 Kept getting a 403 error despite double checking every hint in the assignment page and with other's help.
