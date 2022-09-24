@@ -26,4 +26,4 @@ Here's a walkthrough of implemented user stories:
 ![](https://github.com/bourky/GeoBourque-unit3/blob/main/Screen_Recording_2022-09-24_at_7_03_59_PM_AdobeExpress.gif)
 
 ### Notes
-Kept getting a 403 error despite double checking every hint in the assignment page and with other's help.
+Kept getting a 403 error despite double checking every hint in the assignment page and with other's help. None of the guide's (include the walkthrough videos in the assignment tab), not the registering a dev account and getting a key, nor the helpers indicated that this project could not be completed with just 'essential' access to Twitter's API. It took the professor to tell me to try to get 'elevated' status before the app could function.
